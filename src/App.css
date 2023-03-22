@@ -37,3 +37,17 @@
   }
 }
 
+.container {
+  background-color: aqua;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  border: rebeccapurple 5px solid;
+}
+.friends {
+  background-color: lightblue;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  border: darkgoldenrod 5px solid;
+}
